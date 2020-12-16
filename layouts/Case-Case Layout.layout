@@ -50,6 +50,30 @@
             <componentType>CustomButtons</componentType>
         </rightComponents>
         <useInlineFiltersInConsole>false</useInlineFiltersInConsole>
+        
+        
+         <feedFilters>
+            <feedFilterType>FeedItemType</feedFilterType>
+            <feedItemType>EmailMessageEvent</feedItemType>
+        </feedFilters>
+        <feedFilters>
+            <feedFilterType>FeedItemType</feedFilterType>
+            <feedItemType>CallLogPostMOD</feedItemType>
+        </feedFilters>
+        
+        
+        
+        
+         <feedFilters>
+            <feedFilterType>FeedItemType</feedFilterType>
+            <feedItemType>EmailMessageEvent</feedItemType>
+        </feedFilters>
+        <feedFilters>
+            <feedFilterType>FeedItemType</feedFilterType>
+            <feedItemType>CallLogPostMOD</feedItemType>
+        </feedFilters>
+        
+        
     </feedLayout>
     <headers>PersonalTagging</headers>
     <headers>PublicTagging</headers>
@@ -87,6 +111,19 @@
                 <behavior>Edit</behavior>
                 <field>Login_IP_restrictions__c</field>
             </layoutItems>
+            
+            
+             <feedFilters>
+            <feedFilterType>FeedItemType</feedFilterType>
+            <feedItemType>EmailMessageEvent</feedItemType>
+        </feedFilters>
+        <feedFilters>
+            <feedFilterType>FeedItemType</feedFilterType>
+            <feedItemType>CallLogPostMOD</feedItemType>
+        </feedFilters>
+            
+            
+            
             <layoutItems>
                 <behavior>Edit</behavior>
                 <field>Case_TTT__c</field>
@@ -235,6 +272,19 @@
         <detailHeading>false</detailHeading>
         <editHeading>false</editHeading>
         <layoutColumns>
+            
+            
+            
+             <feedFilters>
+            <feedFilterType>FeedItemType</feedFilterType>
+            <feedItemType>EmailMessageEvent</feedItemType>
+        </feedFilters>
+        <feedFilters>
+            <feedFilterType>FeedItemType</feedFilterType>
+            <feedItemType>CallLogPostMOD</feedItemType>
+        </feedFilters>
+            
+            
             <layoutItems>
                 <customLink>UpsellCrosssellOpportunity</customLink>
             </layoutItems>
