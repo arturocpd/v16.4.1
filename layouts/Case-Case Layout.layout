@@ -12,6 +12,21 @@
             <feedFilterType>FeedItemType</feedFilterType>
             <feedItemType>CallLogPost</feedItemType>
         </feedFilters>
+           
+           
+           
+            <feedFilters>
+            <feedFilterType>FeedItemType</feedFilterType>
+            <feedItemType>EmailMessageEvent</feedItemType>
+        </feedFilters>
+        <feedFilters>
+            <feedFilterType>FeedItemType</feedFilterType>
+            <feedItemType>CallLogPostMOD</feedItemType>
+        </feedFilters>
+           
+           
+           
+           
         <feedFilters>
             <feedFilterType>FeedItemType</feedFilterType>
             <feedItemType>TextPostMOD2</feedItemType>
@@ -101,6 +116,40 @@
                 <behavior>Edit</behavior>
                 <field>Admin_Checkbox__c</field>
             </layoutItems>
+            
+            
+            
+             <feedFilters>
+            <feedFilterType>FeedItemType</feedFilterType>
+            <feedItemType>EmailMessageEvent</feedItemType>
+        </feedFilters>
+        <feedFilters>
+            <feedFilterType>FeedItemType</feedFilterType>
+            <feedItemType>CallLogPostMOD</feedItemType>
+        </feedFilters>
+            
+            
+            
+            
+            
+            
+            
+            
+             <feedFilters>
+            <feedFilterType>FeedItemType</feedFilterType>
+            <feedItemType>EmailMessageEvent</feedItemType>
+        </feedFilters>
+        <feedFilters>
+            <feedFilterType>FeedItemType</feedFilterType>
+            <feedItemType>CallLogPostMOD</feedItemType>
+        </feedFilters>
+            
+            
+            
+            
+            
+            
+            
             <layoutItems>
                 <behavior>Edit</behavior>
                 <field>Standard_Checkbox__c</field>
@@ -169,6 +218,19 @@
                 <behavior>Edit</behavior>
                 <field>Case_WWW__c</field>
             </layoutItems>
+            
+            
+             <feedFilters>
+            <feedFilterType>FeedItemType</feedFilterType>
+            <feedItemType>EmailMessageEvent</feedItemType>
+        </feedFilters>
+        <feedFilters>
+            <feedFilterType>FeedItemType</feedFilterType>
+            <feedItemType>CallLogPostMOD</feedItemType>
+        </feedFilters>
+            
+            
+            
             <layoutItems>
                 <behavior>Edit</behavior>
                 <field>V9_test_flow__c</field>
@@ -712,6 +774,70 @@
             <actionType>StandardButton</actionType>
             <sortOrder>11</sortOrder>
         </platformActionListItems>
+        
+        
+        
+         <feedFilters>
+            <feedFilterType>FeedItemType</feedFilterType>
+            <feedItemType>EmailMessageEvent</feedItemType>
+        </feedFilters>
+        <feedFilters>
+            <feedFilterType>FeedItemType</feedFilterType>
+            <feedItemType>CallLogPostMOD</feedItemType>
+        </feedFilters> <feedFilters>
+            <feedFilterType>FeedItemType</feedFilterType>
+            <feedItemType>EmailMessageEvent</feedItemType>
+        </feedFilters>
+        <feedFilters>
+            <feedFilterType>FeedItemType</feedFilterType>
+            <feedItemType>CallLogPostMOD</feedItemType>
+        </feedFilters> <feedFilters>
+            <feedFilterType>FeedItemType</feedFilterType>
+            <feedItemType>EmailMessageEvent</feedItemType>
+        </feedFilters>
+        <feedFilters>
+            <feedFilterType>FeedItemType</feedFilterType>
+            <feedItemType>CallLogPostMOD</feedItemType>
+        </feedFilters> <feedFilters>
+            <feedFilterType>FeedItemType</feedFilterType>
+            <feedItemType>EmailMessageEvent</feedItemType>
+        </feedFilters>
+        <feedFilters>
+            <feedFilterType>FeedItemType</feedFilterType>
+            <feedItemType>CallLogPostMOD</feedItemType>
+        </feedFilters>
+        
+        
+        
+         <feedFilters>
+            <feedFilterType>FeedItemType</feedFilterType>
+            <feedItemType>EmailMessageEvent</feedItemType>
+        </feedFilters>
+        <feedFilters>
+            <feedFilterType>FeedItemType</feedFilterType>
+            <feedItemType>CallLogPostMOD</feedItemType>
+        </feedFilters> <feedFilters>
+            <feedFilterType>FeedItemType</feedFilterType>
+            <feedItemType>EmailMessageEvent</feedItemType>
+        </feedFilters>
+        <feedFilters>
+            <feedFilterType>FeedItemType</feedFilterType>
+            <feedItemType>CallLogPostMOD</feedItemType>
+        </feedFilters> <feedFilters>
+            <feedFilterType>FeedItemType</feedFilterType>
+            <feedItemType>EmailMessageEvent</feedItemType>
+        </feedFilters>
+        <feedFilters>
+            <feedFilterType>FeedItemType</feedFilterType>
+            <feedItemType>CallLogPostMOD</feedItemType>
+        </feedFilters> <feedFilters>
+            <feedFilterType>FeedItemType</feedFilterType>
+            <feedItemType>EmailMessageEvent</feedItemType>
+        </feedFilters>
+        <feedFilters>
+            <feedFilterType>FeedItemType</feedFilterType>
+            <feedItemType>CallLogPostMOD</feedItemType>
+        </feedFilters>
         <platformActionListItems>
             <actionName>PrintableView</actionName>
             <actionType>StandardButton</actionType>
