@@ -17,7 +17,7 @@
            
             <feedFilters>
             <feedFilterType>FeedItemType</feedFilterType>
-            <feedItemType>EmailMessageEvent</feedItemType>
+            <feedItemType>EmailMessageEvent123</feedItemType>
         </feedFilters>
         <feedFilters>
             <feedFilterType>FeedItemType</feedFilterType>
@@ -37,7 +37,7 @@
         </feedFilters>
         <feedFilters>
             <feedFilterType>FeedItemType</feedFilterType>
-            <feedItemType>ActivityEvent</feedItemType>
+            <feedItemType>ActivityEvent123</feedItemType>
         </feedFilters>
         <fullWidthFeed>true</fullWidthFeed>
         <hideSidebar>trueMOD2</hideSidebar>
@@ -70,7 +70,7 @@
         <layoutColumns>
             <layoutItems>
                 <behavior>Edit</behavior>
-                <field>OwnerId</field>
+                <field>OwnerId123</field>
             </layoutItems>
             <layoutItems>
                 <behavior>Readonly</behavior>
