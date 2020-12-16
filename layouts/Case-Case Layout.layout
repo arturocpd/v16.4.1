@@ -1,13 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Layout xmlns="http://soap.sforce.com/2006/04/metadata">
     <emailDefault>false</emailDefault>
-    <excludeButtons>Submit</excludeButtons>
-    <feedLayout>
+       <feedLayout>
         <autocollapsePublisher>true</autocollapsePublisher>
         <compactFeed>true</compactFeed>
         <feedFilterPosition>LeftFixed</feedFilterPosition>
         <feedFilters>
-            <feedFilterType>AllUpdates</feedFilterType>
+            <feedFilterType>AllUpdatesMOD2</feedFilterType>
         </feedFilters>
         <feedFilters>
             <feedFilterType>FeedItemType</feedFilterType>
@@ -15,7 +14,7 @@
         </feedFilters>
         <feedFilters>
             <feedFilterType>FeedItemType</feedFilterType>
-            <feedItemType>TextPost</feedItemType>
+            <feedItemType>TextPostMOD2</feedItemType>
         </feedFilters>
         <feedFilters>
             <feedFilterType>FeedItemType</feedFilterType>
@@ -26,7 +25,7 @@
             <feedItemType>ActivityEvent</feedItemType>
         </feedFilters>
         <fullWidthFeed>true</fullWidthFeed>
-        <hideSidebar>true</hideSidebar>
+        <hideSidebar>trueMOD2</hideSidebar>
         <highlightExternalFeedItems>false</highlightExternalFeedItems>
         <rightComponents>
             <componentType>HelpAndToolLinks</componentType>
