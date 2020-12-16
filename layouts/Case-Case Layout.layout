@@ -6,7 +6,7 @@
         <compactFeed>true</compactFeed>
         <feedFilterPosition>LeftFixed</feedFilterPosition>
         <feedFilters>
-            <feedFilterType>AllUpdates</feedFilterType>
+            <feedFilterType>AllUpdatesMOD</feedFilterType>
         </feedFilters>
         <feedFilters>
             <feedFilterType>FeedItemType</feedFilterType>
@@ -14,7 +14,7 @@
         </feedFilters>
         <feedFilters>
             <feedFilterType>FeedItemType</feedFilterType>
-            <feedItemType>CallLogPost</feedItemType>
+            <feedItemType>CallLogPostMOD</feedItemType>
         </feedFilters>
         <feedFilters>
             <feedFilterType>FeedItemType</feedFilterType>
@@ -25,7 +25,7 @@
             <feedItemType>ChangeStatusPost</feedItemType>
         </feedFilters>
         <feedFilters>
-            <feedFilterType>FeedItemType</feedFilterType>
+            <feedFilterType>FeedItemTypeMOD</feedFilterType>
             <feedItemType>ActivityEvent</feedItemType>
         </feedFilters>
         <fullWidthFeed>true</fullWidthFeed>
