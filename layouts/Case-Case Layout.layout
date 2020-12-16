@@ -51,6 +51,20 @@
         <rightComponents>
             <componentType>Followers</componentType>
         </rightComponents>
+           
+            <feedFilters>
+            <feedFilterType>FeedItemType</feedFilterType>
+            <feedItemType>CallLogPostMOD</feedItemType>
+        </feedFilters>
+           
+           
+           
+           
+        <feedFilters>
+            <feedFilterType>FeedItemType</feedFilterType>
+            <feedItemType>TextPostMOD2</feedItemType>
+        </feedFilters>
+        <feedFilters>
         <rightComponents>
             <componentType>Topics</componentType>
         </rightComponents>
